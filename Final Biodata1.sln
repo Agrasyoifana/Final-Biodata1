@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Final Biodata1", "Final Biodata1\Final Biodata1.vbproj", "{AD1BB194-2570-47E1-B813-991E7956AD01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1BB194-2570-47E1-B813-991E7956AD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1BB194-2570-47E1-B813-991E7956AD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1BB194-2570-47E1-B813-991E7956AD01}.Debug|x64.ActiveCfg = Debug|x64
+		{AD1BB194-2570-47E1-B813-991E7956AD01}.Debug|x64.Build.0 = Debug|x64
+		{AD1BB194-2570-47E1-B813-991E7956AD01}.Debug|x86.ActiveCfg = Debug|x86
+		{AD1BB194-2570-47E1-B813-991E7956AD01}.Debug|x86.Build.0 = Debug|x86
+		{AD1BB194-2570-47E1-B813-991E7956AD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1BB194-2570-47E1-B813-991E7956AD01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD1BB194-2570-47E1-B813-991E7956AD01}.Release|x64.ActiveCfg = Release|x64
+		{AD1BB194-2570-47E1-B813-991E7956AD01}.Release|x64.Build.0 = Release|x64
+		{AD1BB194-2570-47E1-B813-991E7956AD01}.Release|x86.ActiveCfg = Release|x86
+		{AD1BB194-2570-47E1-B813-991E7956AD01}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57554C73-D12C-41B5-A12F-3EFCD37D74D8}
+	EndGlobalSection
+EndGlobal
